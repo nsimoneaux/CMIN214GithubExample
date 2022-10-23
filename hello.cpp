@@ -1,7 +1,10 @@
-testing
+/*
+Demo Code!
+*/
 
-and more!
-  
-   even more!
-  
-reliable safe behavior.
+#include <iostream>
+using namespace std;
+
+int main(){
+    cout << "Hello World!" << endl;
+}
